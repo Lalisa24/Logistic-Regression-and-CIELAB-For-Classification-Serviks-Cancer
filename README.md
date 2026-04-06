@@ -39,3 +39,6 @@ Pengolahan Citra: OpenCV (cv2), Scikit-image, PIL
 Visualisasi: Matplotlib, Seaborn
 
 Machine Learning: Scikit-learn
+
+Contributor
+@gracyanurmalasinurat
